@@ -5,7 +5,7 @@ Tested with Python 3.7, but it also may be compatabile with other versions.
 
 ## Install
 ```
-$ pip install -r requirements.txt
+check the requirement.txt 
 ```
 
 ## Controls
